@@ -1,1 +1,2 @@
-1) Install pypdf: pip install pypdf
+1) Install pymupdf: pip install pymupdf
+Install pypdf: pip install pypdf We do not use pypdf as it isn't well optimised
