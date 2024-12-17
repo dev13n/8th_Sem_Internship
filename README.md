@@ -15,6 +15,7 @@ Welcome to my internship repository! I'm currently working as an intern in the I
 #### Day 2: Tuesday, 17/12/2024
 - **Tuesday Toolbox Meeting**: Attended the morning "Tuesday Toolbox" meeting, which lasted for 15 minutes. We discussed Linde's company culture and explored ways to implement these values within our daily work life and projects 🤝.
 - **Linde Credentials**: Received our official Linde credentials, which included login access and necessary documentation to get started with our tasks 🔑.
-- **Project Assignment**: We were assigned specific projects to work on during the internship. Our supervisor outlined the goals and expectations, and we were introduced to the person we’ll be reporting to throughout our internship 📊.
+- **Familiarization with Projects**: Got introduced to the current projects within the IT department, including software tools and system optimizations ⚙️.
+- **Initial Task Assignment**: Assigned to assist with [specific project or task] 🚀.
 
-5
+6
