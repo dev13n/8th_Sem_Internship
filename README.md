@@ -18,7 +18,7 @@ Welcome to my internship repository! I'm currently working as an intern in the I
 - **Familiarization with Projects**: Got introduced to the current projects within the IT department, including software tools and system optimizations ⚙️.
 - **Initial Task Assignment**: Assigned to assist with [specific project or task] 🚀.
 
-  #### Day 3: Wednesday, 18/12/2024
+#### Day 3: Wednesday, 18/12/2024
 - **Project Discussion with Supervisor**: Had a detailed discussion with our supervisor to redefine the project ideas, identifying potential challenges and brainstorming initial solutions for addressing them 🧠.
 - **Dataset Research**: Conducted research to find relevant datasets that can be leveraged for the project, exploring various sources and evaluating their suitability 📊.
 - **Data Engineering Solutions**: Provided data engineering solutions for certain aspects of the project, helping to streamline the data pipeline and optimize processes 🛠️.
