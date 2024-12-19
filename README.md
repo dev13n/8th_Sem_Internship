@@ -23,4 +23,8 @@ Welcome to my internship repository! I'm currently working as an intern in the I
 - **Dataset Research**: Conducted research to find relevant datasets that can be leveraged for the project, exploring various sources and evaluating their suitability 📊.
 - **Data Engineering Solutions**: Provided data engineering solutions for certain aspects of the project, helping to streamline the data pipeline and optimize processes 🛠️.
 
-9
+#### Day 4: Thursday, 19/12/2024  
+- **Python Libraries and Dependencies**: Created a detailed list of Python libraries and their specific versions to be used in the project, explaining the rationale behind choosing certain versions for compatibility and stability. Included libraries such as NumPy, Pandas, Scikit-learn, TensorFlow, and Matplotlib for data analysis, machine learning, and visualization 📚.
+- **Temporary Plan of Action**: Outlined a preliminary action plan for the next stages of the project, defining clear tasks and milestones for upcoming days. The plan focuses on setting up the environment, data preprocessing, and model selection 🔧.
+- **ML Techniques**: Identified machine learning techniques that could be useful for the project, such as supervised learning (regression, classification), unsupervised learning (clustering), and deep learning (neural networks) for more advanced modeling. Discussed how these techniques can be applied to the project's goals 💡.
+10
