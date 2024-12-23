@@ -32,7 +32,7 @@ Welcome to my internship repository! I'm currently working as an intern in the I
 - **Environment Setup**:  Tried and successfully installed the chosen IDE (PyCharm) after exploring the capabilities of other IDE's such as GitHub Codespaces for remote development or VSCode for it's powerful extension. Set up a virtual environment using Anaconda to isolate project dependencies and avoid conflicts.
 - **Dependency Exploration**: Investigated and compared different versions of key libraries (NumPy, Pandas, Scikit-learn, TensorFlow, Matplotlib) for optimal performance and compatibility with the project's requirements. Explored alternative libraries and dependencies for specific tasks, such as PDF processing libraries (e.g., PyPDF2, pdfminer) to determine the most suitable choices.
 
-  #### Day 6: Saturday, 21/12/2024
-  - **Weekend**
+#### Day 6: Saturday, 21/12/2024
+- **Weekend**
 
-13
+14
