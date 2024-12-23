@@ -35,4 +35,7 @@ Welcome to my internship repository! I'm currently working as an intern in the I
 #### Day 6: Saturday, 21/12/2024
 - **Weekend**
 
-14
+#### Day 7: Saturday, 22/12/2024
+- **Weekend**
+
+15
