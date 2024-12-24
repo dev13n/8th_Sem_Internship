@@ -32,17 +32,17 @@ Welcome to my internship repository! I'm currently working as an intern in the I
 - **Environment Setup**: Successfully installed the chosen IDE (PyCharm) 🎯 after exploring capabilities of other IDEs like GitHub Codespaces for remote development 🌐 and VSCode for its powerful extensions 💡. Set up a virtual environment using Anaconda 🐍 to isolate project dependencies and avoid conflicts.  
 - **Dependency Exploration**: Investigated and compared different versions of key libraries (NumPy, Pandas, Scikit-learn, TensorFlow, Matplotlib) 📚 for optimal performance and compatibility. Explored alternative libraries for specific tasks, such as PDF processing libraries (e.g., PyPDF2, pdfminer) 📄 to determine the most suitable choices.  
 
-#### Day 6: Saturday, 21/12/2024 🌴  
-- **Weekend**: Relax and recharge 🔋.  
+#### Day 6: Saturday, 21/12/2024   
+- **Weekend**: Relax 🌴 and recharge 🔋.  
 
-#### Day 7: Sunday, 22/12/2024 🌞  
-- **Weekend**: Enjoy leisure time 🎉.
+#### Day 7: Sunday, 22/12/2024   
+- **Weekend**: Enjoy leisure time 🌞🎉.
 
-#### Day 8: Monday, 23/12/2024 💻  
-- **Learning Doctr**: Explored **Doctr** 🛠️, an OCR (Optical Character Recognition) tool designed for extracting textual information from images and PDFs. It leverages deep learning models for accurate text recognition and layout analysis 📄. Gained an understanding of its key features, including:  
+#### Day 8: Monday, 23/12/2024   
+- **Learning Doctr**: Explored **Doctr** 🛠️, an OCR (Optical Character Recognition) tool designed for extracting textual information from images and PDFs💻. It leverages deep learning models for accurate text recognition and layout analysis 📄. Gained an understanding of its key features, including:  
   - **Text Detection**: Identifies and localizes text in images or documents.  
   - **Text Recognition**: Converts the detected text into editable and searchable formats.  
   - **Structured Outputs**: Preserves layouts, such as tables or columns, ensuring organized data extraction 📋.  
 - **Model Experimentation**: Ran the model on temporary finance-based images 💰 and mechanical tender-related PDFs 🛠️ to evaluate its performance. Analyzed the output, which was in JSON format, ensuring proper structure and usability for downstream tasks 📊.
 
-17
+18
