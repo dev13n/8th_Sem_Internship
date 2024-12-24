@@ -28,14 +28,14 @@ Welcome to my internship repository! I'm currently working as an intern in the I
 - **Temporary Plan of Action**: Outlined a preliminary action plan for the next stages of the project, defining clear tasks and milestones for upcoming days. The plan focuses on setting up the environment, data preprocessing, and model selection 🔧.
 - **ML Techniques**: Identified machine learning techniques that could be useful for the project, such as supervised learning (regression, classification), unsupervised learning (clustering), and deep learning (neural networks) for more advanced modeling. Discussed how these techniques can be applied to the project's goals 💡.
 
-#### Day 5: Friday, 20/12/2024
-- **Environment Setup**:  Tried and successfully installed the chosen IDE (PyCharm) after exploring the capabilities of other IDE's such as GitHub Codespaces for remote development or VSCode for it's powerful extension. Set up a virtual environment using Anaconda to isolate project dependencies and avoid conflicts.
-- **Dependency Exploration**: Investigated and compared different versions of key libraries (NumPy, Pandas, Scikit-learn, TensorFlow, Matplotlib) for optimal performance and compatibility with the project's requirements. Explored alternative libraries and dependencies for specific tasks, such as PDF processing libraries (e.g., PyPDF2, pdfminer) to determine the most suitable choices.
+#### Day 5: Friday, 20/12/2024 🚀  
+- **Environment Setup**: Successfully installed the chosen IDE (PyCharm) 🎯 after exploring capabilities of other IDEs like GitHub Codespaces for remote development 🌐 and VSCode for its powerful extensions 💡. Set up a virtual environment using Anaconda 🐍 to isolate project dependencies and avoid conflicts.  
+- **Dependency Exploration**: Investigated and compared different versions of key libraries (NumPy, Pandas, Scikit-learn, TensorFlow, Matplotlib) 📚 for optimal performance and compatibility. Explored alternative libraries for specific tasks, such as PDF processing libraries (e.g., PyPDF2, pdfminer) 📄 to determine the most suitable choices.  
 
-#### Day 6: Saturday, 21/12/2024
-- **Weekend**
+#### Day 6: Saturday, 21/12/2024 🌴  
+- **Weekend**: Relax and recharge 🔋.  
 
-#### Day 7: Saturday, 22/12/2024
-- **Weekend**
+#### Day 7: Sunday, 22/12/2024 🌞  
+- **Weekend**: Enjoy leisure time 🎉.
 
-15
+16
