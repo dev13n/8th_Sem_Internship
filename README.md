@@ -38,6 +38,8 @@ Welcome to my internship repository! I'm currently working as an intern in the I
 #### Day 7: Sunday, 22/12/2024   
 - **Weekend**: Enjoy leisure time 🌞🎉.
 
+### Week 2: Worked on Named Entity Relation 🏢
+
 #### Day 8: Monday, 23/12/2024   
 - **Learning Doctr**: Explored **Doctr** 🛠️, an OCR (Optical Character Recognition) tool designed for extracting textual information from images and PDFs💻. It leverages deep learning models for accurate text recognition and layout analysis 📄. Gained an understanding of its key features, including:  
   - **Text Detection**: Identifies and localizes text in images or documents.  
