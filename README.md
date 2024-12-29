@@ -45,4 +45,17 @@ Welcome to my internship repository! I'm currently working as an intern in the I
   - **Structured Outputs**: Preserves layouts, such as tables or columns, ensuring organized data extraction 📋.  
 - **Model Experimentation**: Ran the model on temporary finance-based images 💰 and mechanical tender-related PDFs 🛠️ to evaluate its performance. Analyzed the output, which was in JSON format, ensuring proper structure and usability for downstream tasks 📊.
 
-18
+#### Day 19: Friday, 03/01/2025  
+
+- **Demo Presentation**: Showcased a demonstration of **Doctr** to the mentor, highlighting its capabilities in:  
+  - **Text Extraction**: Accurately extracting text from finance-based images 💰 and tender-related PDFs 🛠️.  
+  - **Structured Output**: Emphasized the well-organized JSON output, which is ideal for integration into data pipelines 📊.  
+  - **Layout Preservation**: Demonstrated how Doctr retains document formatting, such as tables and multi-column text, ensuring usability in real-world applications 📄.  
+
+- **Feedback and Dataset Sharing**:  
+  - Mentor provided constructive feedback on enhancing the text extraction process for specific domains (e.g., finance and engineering).  
+  - Received a curated dataset tailored for domain-specific text recognition and layout analysis 📂.  
+
+- **Next Steps**: Plan to preprocess the dataset and fine-tune the OCR models to achieve better accuracy and relevance in extracted outputs.
+
+19
