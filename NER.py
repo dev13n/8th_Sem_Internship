@@ -1,6 +1,6 @@
 import google.generativeai as genai
 
-genai.configure(api_key="AIzaSyC8hdtYBGTuRTENL33VSXN_Nxees3MKYog")
+genai.configure(api_key="ENTER_YOUR_API")
 model = genai.GenerativeModel("gemini-1.5-flash")
 
 # Read the entire content of output.txt
