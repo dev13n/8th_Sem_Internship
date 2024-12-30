@@ -116,6 +116,14 @@ Welcome to my internship repository! I'm currently working as an intern in the I
   - Brainstormed on how to manage large-scale outputs, ensuring seamless integration with preprocessing, storage, and visualization components 🧩.  
   - Identified the need for metadata tagging 🏷️ for processed documents to enhance traceability and usability 🚦.  
 
-- **Next Steps**: Plan to refine workflows by combining **Doctr**, **spaCy**, and the most promising GenAI API into a comprehensive text extraction and processing pipeline while aligning with broader data engineering goals 🔄📌.  
+- **Next Steps**: Plan to refine workflows by combining **Doctr**, **spaCy**, and the most promising GenAI API into a comprehensive text extraction and processing pipeline while aligning with broader data engineering goals 🔄📌.
 
-22
+#### Day 13: Saturday, 28/12/2024   
+- **Weekend**: Relax 🌴 and recharge 🔋.  
+
+#### Day 14: Sunday, 29/12/2024   
+- **Weekend**: Enjoy leisure time 🌞🎉.
+
+### Week 3: Worked on Structure 🏢
+
+23
