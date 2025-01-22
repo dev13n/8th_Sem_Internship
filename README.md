@@ -124,106 +124,103 @@ Welcome to my internship repository! I'm currently working as an intern in the I
 #### Day 14: Sunday, 29/12/2024   
 - **Weekend**: Enjoy leisure time 🌞🎉.
 
-## Week 3: Refining Text Extraction and Analysis Workflows 🏢📈
+# Week 3: Refining Text Extraction and Analysis Workflows 🏢📈
 
-**Day 15: Monday, 30/12/2024**  
-- Collaborated with the mentor to refine the OCR and NLP workflow using **Doctr** and **spaCy** for structured data extraction. 🧑‍💻  
+## Day 15: Monday, 30/12/2024  
+- Collaborated with the mentor to refine the **OCR** and **NLP** workflow using **Doctr** and **spaCy** for structured data extraction. 🧑‍💻  
 - Suggested incorporating **annotation tools** for manual validation of OCR outputs to enhance training datasets. ✍️  
 
-**Day 16: Tuesday, 31/12/2024 - Toolbox Tuesday**  
+## Day 16: Tuesday, 31/12/2024 - Toolbox Tuesday  
 - Participated in **Toolbox Tuesday**, an interactive cultural session at Linde where the team discusses core values, with a focus on **safety**. 🦺  
 - Engaged in a discussion about maintaining safety in data processing workflows and how it can be extended to software development practices. 🔐  
 - Contributed insights into how safety and quality measures can improve our workflows, tying back to key aspects of Linde’s organizational culture. 💬  
 
-**Day 17: Wednesday, 01/01/2025**  
-- Conducted testing of OCR models, focusing on processing scanned PDFs with varying resolutions and fonts. 📄  
+## Day 17: Wednesday, 01/01/2025  
+- Conducted testing of **OCR models**, focusing on processing scanned PDFs with varying resolutions and fonts. 📄  
 - Documented challenges in handling complex layouts and formulated approaches to refine data parsing. 📚  
 
-**Day 18: Thursday, 02/01/2025**  
-- Integrated tokenization methods to streamline **preprocessing pipelines** for NLP models. 🔄  
+## Day 18: Thursday, 02/01/2025  
+- Integrated tokenization methods to streamline **preprocessing pipelines** for **NLP models**. 🔄  
 - Researched solutions for minimizing errors caused by large tokenized input sequences, ensuring improved model efficiency. 🚀  
 
-**Day 19: Friday, 03/01/2025**  
+## Day 19: Friday, 03/01/2025  
 - Debugged edge cases in text extraction where certain non-standard fonts were misclassified by the OCR pipeline. 🔍  
 - Collaborated with the mentor to finalize potential solutions for **reducing tokenization overhead**, focusing on preprocessing and truncation strategies. 🔧  
 
-**Day 20: Saturday, 04/01/2025**  
-- **Holiday**  
+## Day 20: Saturday, 04/01/2025  
+- **Holiday** 🎉 (Day off to relax and recharge)
 
-**Day 21: Sunday, 05/01/2025**  
-- **Holiday**  
+## Day 21: Sunday, 05/01/2025  
+- **Holiday** 🌞 (Day off for personal time)
 
-
-**Day 22: Monday, 06/01/2025**  
+## Day 22: Monday, 06/01/2025  
 - Began refining text extraction output by implementing **custom parsing** algorithms for specific document types. 📑  
 - Worked on enhancing the ability of the system to interpret handwritten and stylized fonts, improving recognition accuracy. ✍️  
 
-**Day 23: Tuesday, 07/01/2025 - Toolbox Tuesday**  
+## Day 23: Tuesday, 07/01/2025 - Toolbox Tuesday  
 - Participated in another **Toolbox Tuesday** session, where the team engaged in an interactive discussion about **teamwork, efficiency**, and the importance of **continuous learning**. 💡  
 - Discussed best practices for ensuring **data privacy and security** within the framework of Linde's corporate culture. 🛡️  
 
-**Day 24: Wednesday, 08/01/2025**  
+## Day 24: Wednesday, 08/01/2025  
 - Collaborated with the mentor to implement **modularization** in the data processing pipeline for better scalability. 🏗️  
 - Discussed integrating a **feedback loop** to refine extraction rules based on results from previous runs. 🔄  
 
-**Day 25: Thursday, 09/01/2025**  
+## Day 25: Thursday, 09/01/2025  
 - Focused on reducing computational overhead in tokenization by experimenting with **text segmentation** algorithms. ⚡  
 - Initiated a comparison between existing models to evaluate performance and identify bottlenecks. 🏎️  
 
-**Day 26: Friday, 10/01/2025**  
+## Day 26: Friday, 10/01/2025  
 - Ran a **performance benchmark** to assess tokenization speed and accuracy improvements, compiling the results for review. 📈  
 - Drafted a report summarizing improvements, challenges, and potential future optimizations for the team. 📝  
 
+## Day 27: Saturday, 11/01/2025  
+- **Holiday** 🎉 (Day off to recharge)
 
-**Day 27: Saturday, 11/01/2025**  
-- **Holiday**  
+## Day 28: Sunday, 12/01/2025  
+- **Holiday** 🌞 (Relaxing day)
 
-**Day 28: Sunday, 12/01/2025**  
-- **Holiday**  
+## Day 29: Monday, 13/01/2025  
+- **Holiday (Makar Sankranti)** 🪁 (Celebrating Makar Sankranti)
 
-**Day 29: Monday, 13/01/2025**  
-- **Holiday (Makar Sankranti)**  
+## Day 30: Tuesday, 14/01/2025  
+- **Holiday (Makar Sankranti)** 🌅 (Enjoying the festive occasion)
 
-**Day 30: Tuesday, 14/01/2025**  
-- **Holiday (Makar Sankranti)**  
+## Day 31: Wednesday, 15/01/2025  
+- **Holiday (Makar Sankranti)** 🌾 (Time for family celebrations)
 
-**Day 31: Wednesday, 15/01/2025**  
-- **Holiday (Makar Sankranti)**  
-
-**Day 32: Thursday, 16/01/2025**  
+## Day 32: Thursday, 16/01/2025  
 - Focused on finalizing the tokenization improvements and ran new benchmarks on extraction accuracy with reduced tokens. 🎯  
 - Updated documentation for text extraction models, ensuring clarity for further integrations. 📖  
 
-**Day 33: Friday, 17/01/2025**  
+## Day 33: Friday, 17/01/2025  
 - Collaborated with the mentor and team to discuss **scalability** of text extraction models for future deployments. 🔮  
 - Researched potential cloud-based solutions to deploy the pipeline efficiently. ☁️  
 
+## Day 34: Saturday, 18/01/2025  
+- **Holiday** 🎉 (Day off)
 
-**Day 34: Saturday, 18/01/2025**  
-- **Holiday**  
+## Day 35: Sunday, 19/01/2025  
+- **Holiday** 🌞 (Rest and relaxation day)
 
-**Day 35: Sunday, 19/01/2025**  
-- **Holiday**  
-
-**Day 36: Monday, 20/01/2025**  
+## Day 36: Monday, 20/01/2025  
 - Continued optimizing preprocessing by integrating **custom tokenization filters** and measuring improvements. ⚙️  
 - Engaged with the team to discuss new approaches for **reducing manual intervention** in OCR validation. 🔧  
 
-**Day 37: Tuesday, 21/01/2025 - Toolbox Tuesday**  
+## Day 37: Tuesday, 21/01/2025 - Toolbox Tuesday  
 - Participated in **Toolbox Tuesday**, where we focused on **continuous improvement**, emphasizing the importance of feedback loops in process refinement. 🔄  
 - Discussed how the principles of **continuous improvement** could be applied to both data extraction models and team processes at Linde. 💬  
 
-**Day 38: Wednesday, 22/01/2025**  
+## Day 38: Wednesday, 22/01/2025  
 - Finalized new **best practices** for the tokenization pipeline and prepared documentation for future reference. 📑  
 - Completed final testing on OCR models to ensure all edge cases were handled effectively. 🧪  
 
-**Day 39: Thursday, 23/01/2025**  
+## Day 39: Thursday, 23/01/2025  
 - Drafted an overview of the **OCR and tokenization project** for a presentation to senior management. 🎤  
 - Prepared results showing performance improvements in data extraction and model efficiency. 📊  
 
-**Day 40: Friday, 24/01/2025**  
-- Presented the progress of the OCR and NLP pipeline improvements to the team, highlighting the **reduction in errors** and **improvements in tokenization** efficiency. 📈  
+## Day 40: Friday, 24/01/2025  
+- Presented the progress of the **OCR** and **NLP** pipeline improvements to the team, highlighting the **reduction in errors** and **improvements in tokenization** efficiency. 📈  
 - Received feedback for further refinements and discussed potential next steps for expanding the project’s capabilities. 💡  
 
 
-24
+25
