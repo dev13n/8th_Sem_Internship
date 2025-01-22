@@ -60,28 +60,7 @@ Welcome to my internship repository! I'm currently working as an intern in the I
 
 #### Day 10: Wednesday, 25/12/2025  
 
-- **Christmas Holiday 🎄**: Took a well-deserved break to celebrate Christmas with family and friends. Enjoyed the festivities, exchanged gifts, and recharged for upcoming tasks. 🎅✨
-
-#### Day 11: Thursday, 26/12/2025  
-
-- **Exploring spaCy**: Began integrating **spaCy**, a robust NLP library, into the workflow for further text analysis and processing:  
-  - Set up pipelines for entity recognition and pattern matching.  
-  - Tried all versions of spaCy models (**small**, **medium**, **large**, and **transformer-based**) to assess their performance:  
-    - **Small**: Fast but limited in recognizing complex patterns.  
-    - **Medium**: Balanced performance with improved recognition accuracy.  
-    - **Large**: More accurate but slower, particularly for larger datasets.  
-    - **Transformer-based**: Delivered the highest accuracy for complex texts but required significant computational resources.  
-  - Focused on extracting structured data, such as names, dates, and monetary values, from financial documents 💰.  
-  - Identified potential synergies between **Doctr** and **spaCy** for enhanced data extraction and organization.  
-
-- **Table Extraction**: Initiated efforts to handle tables in documents more effectively:  
-  - Used **Doctr's layout preservation** to detect table structures.  
-  - Parsed and cleaned table data for seamless integration into analysis pipelines 📊.  
-
-- **Data Engineering Thoughts**:  
-  - Discussed ongoing plans for creating a robust data pipeline to support OCR and NLP workflows.  
-  - Explored strategies for preprocessing incoming datasets, such as removing noise, handling missing values, and ensuring uniform formatting.  
-  - Considered storage solutions for maintaining extracted and processed data for efficient retrieval and analysis.  
+- **Christmas Holiday 🎄**: Took a well-deserved break to celebrate Christmas with family and friends. Enjoyed the festivities, exchanged gifts, and recharged for upcoming tasks. 🎅✨ 
 
 #### Day 11: Thursday, 26/12/2025  
 
@@ -223,4 +202,4 @@ Welcome to my internship repository! I'm currently working as an intern in the I
 - Received feedback for further refinements and discussed potential next steps for expanding the project’s capabilities. 💡  
 
 
-25
+26
